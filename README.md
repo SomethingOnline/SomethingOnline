@@ -6,19 +6,18 @@
 - 🤔 &nbsp; Exploring new technologies and developing new software in order to tackle new problems !
 - 🎓 &nbsp; Currently Studying Computer Science at Dublin City Univesity
 - 🌱 &nbsp; Learning more about Cyber Security and Networks. 
-- ✍️ &nbsp; Currently learning Python, Node.JS but will have experience with C++, R by end of College.
+- ✍️ &nbsp; Currently learning Python, Node.JS but will soon have experience with C++, R.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![JavaScript](
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
@@ -36,11 +35,12 @@
 </a>
 
 <br/>
-
+<!--
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
 
 </p>
 
-⭐️ From [JE](https://github.com/SomethingOnline)
+⭐️ From [JackEgan](https://github.com/SomethingOnline)
+-->
