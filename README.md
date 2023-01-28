@@ -35,12 +35,14 @@
 </a>
 
 <br/>
-<!--
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<h3> 🤝🏻 &nbsp;Connect with Me: </h3>
 
 <p align="center">
 
+<a href="https://www.linkedin.com/in/jack-egan-829324251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/jack-egan-829324251/]" height="30" width="40" border="60" /></a>
+<a href="https://instagram.com/https://https://www.instagram.com/jack.egan12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jack.egan12/" height="30" width="40" border="60" /></a>
+  
 </p>
 
 ⭐️ From [JackEgan](https://github.com/SomethingOnline)
--->
