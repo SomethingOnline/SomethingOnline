@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing new software in order to tackle new problems !
-- 🎓 &nbsp; Currently Studying Computer Science at Dublin City Univesity
+- 🎓 &nbsp; Currently Studying Computer Science at Dublin City University
 - 🌱 &nbsp; Learning more about Cyber Security and Networks. 
 - ✍️ &nbsp; Currently learning Python, Node.JS but will soon have experience with C++, R.
 
